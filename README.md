@@ -98,7 +98,7 @@ Alpha = Alpha – mean(Alpha)
 ### decay
 通过将今天的值与前 n 天的衰减值相结合，执行线性衰减函数。它执行以下函数:
 
-![decay公式.jpeg](docs%2Fimages%2Fdecay%B9%AB%CA%BD.jpeg)
+![decay公式](https://raw.githubusercontent.com/xuxinhuali/XinXinXinQuant/main/docs/images/decay%E5%85%AC%E5%BC%8F.jpg)
  
 允许输入的衰减值：整数“n”，其中 n >= 0。注意：使用负数或非整数值进行衰减将破坏回测。
 
